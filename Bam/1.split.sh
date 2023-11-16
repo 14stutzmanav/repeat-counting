@@ -5,7 +5,7 @@
 module load samtools
 module load bamtools
 
-files=*repeats_trim.bam
+files=*repeats.bam
 
 for file in $files; do
     bamtools split -in $file -reference
