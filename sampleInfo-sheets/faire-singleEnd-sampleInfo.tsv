@@ -10,8 +10,8 @@ ywdf-3LW-F-wing-FAIRE	rep2	/proj/droniolb/HTSF/210615_UNC31-K00269_0299_BHLFTYBB
 hp1a2-3LW-F-wing-FAIRE	rep2	/proj/droniolb/HTSF/210615_UNC31-K00269_0299_BHLFTYBBXY/U81_A2_rep2-hp1a2-3LW-F-wing-FAIRE-rep2_AACTGTAG-ACGCCGCA_S32_L007_R1_001.fastq.gz										
 ywdf-3LW-F-wing-FAIRE	rep3	/proj/droniolb/HTSF/210615_UNC31-K00269_0299_BHLFTYBBXY/U83_Df_rep3-ywdf-3LW-F-wing-FAIRE-rep3_CTGCTTCC-GATAGATC_S33_L007_R1_001.fastq.gz										
 hp1a2-3LW-F-wing-FAIRE	rep3	/proj/droniolb/HTSF/210615_UNC31-K00269_0299_BHLFTYBBXY/U84_A2_rep3-hp1a2-3LW-F-wing-FAIRE-rep3_TCATCCTT-AGCGAGCT_S34_L007_R1_001.fastq.gz										
-k9r-3LW-F-wing-FAIRE-single	rep1	/pine/scr/a/l/alexisv7/forJP/Penke2016-fastq/K9R-rep1-faire-singleEnd-3LW.fastq.gz										
-k9r-3LW-F-wing-FAIRE-single	rep2	/pine/scr/a/l/alexisv7/forJP/Penke2016-fastq/K9R-rep2-faire-singleEnd-3LW.fastq.gz										
-k9r-3LW-F-wing-FAIRE-single	rep3	/pine/scr/a/l/alexisv7/forJP/Penke2016-fastq/K9R-rep3-faire-singleEnd-3LW.fastq.gz										
-hwt-3LW-F-wing-FAIRE-single	rep1	/pine/scr/a/l/alexisv7/forJP/Penke2016-fastq/HWT-rep1-faire-singleEnd-3LW.fastq.gz										
-hwt-3LW-F-wing-FAIRE-single	rep2	/pine/scr/a/l/alexisv7/forJP/Penke2016-fastq/HWT-rep2-faire-singleEnd-3LW.fastq.gz										
+k9r-3LW-F-wing-FAIRE-single	rep1	/proj/mckaylab/users/astutzman/faire-analysis/penke2016-fastq/singleEnd/K9R-rep1-faire-singleEnd-3LW.fastq.gz										
+k9r-3LW-F-wing-FAIRE-single	rep2	/proj/mckaylab/users/astutzman/faire-analysis/penke2016-fastq/singleEnd/K9R-rep2-faire-singleEnd-3LW.fastq.gz										
+k9r-3LW-F-wing-FAIRE-single	rep3	/proj/mckaylab/users/astutzman/faire-analysis/penke2016-fastq/singleEnd/K9R-rep3-faire-singleEnd-3LW.fastq.gz										
+hwt-3LW-F-wing-FAIRE-single	rep1	/proj/mckaylab/users/astutzman/faire-analysis/penke2016-fastq/singleEnd/HWT-rep1-faire-singleEnd-3LW.fastq.gz										
+hwt-3LW-F-wing-FAIRE-single	rep2	/proj/mckaylab/users/astutzman/faire-analysis/penke2016-fastq/singleEnd/HWT-rep2-faire-singleEnd-3LW.fastq.gz										
