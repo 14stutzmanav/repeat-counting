@@ -42,7 +42,7 @@ done | column -t > counts-aatag.txt
 files=*repeats_aatat.bam
 for file in $files; do
     samtools view -c $file
-done | column -t > counts-aatat.tsv
+done | column -t > counts-aatat.txt
 
 files=*repeats_dodeca.bam
 for file in $files; do
