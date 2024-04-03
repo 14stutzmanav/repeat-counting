@@ -1,6 +1,7 @@
 # Repeat Counting by Alignment
 ## Alexis Stutzman
-###Winter-Spring 2024
+### Winter-Spring 2024
+
 This repository contains scripts used to align reads from fastq files to a known set of heterochromatic repeats in D. melanogaster. To briefly summarize, I made a custom fasta file, `repeats.fa`, that has all the repeats I’m interested in listed. Then, I aligned my RNAseq fastqs to that file, split the bams by repeat name, and then counted all the reads that mapped to those repeats. Here’s the way to run the files:
 1. Submit snakefile to align everything to repeats. Currently, this is written to use Bowtie for alignment.
 2. Once all the bam files are generated, copy the contents of helper-scripts to Bam and run them. The first helper script is called 1.split.sh and will divide the Bam files by repeat name.
