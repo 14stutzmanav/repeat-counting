@@ -22,8 +22,8 @@
 			"genomeSize" : 137547960
 		},
 		"repeats" : {
-			"bowtie" : "Bowtie2Index/repeats",
-			"fasta" : "../repeats.fa",
+			"bowtie" : "./Bowtie2Index/repeats",
+			"fasta" : "./repeats.fa",
 			"star" : "./Star_Index"
 		},
 		"ecoli" : { 
